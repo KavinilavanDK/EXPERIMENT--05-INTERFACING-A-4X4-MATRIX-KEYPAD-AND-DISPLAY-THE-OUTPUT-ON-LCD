@@ -123,7 +123,6 @@ C1
 Jump to second line, position 1
 
 C2
-
 Jump to second line, position 2
  
 ## Procedure:
